@@ -1,15 +1,5 @@
-# hello-world
-Hello World repository for Git tutorial
-This is an example repository for the Git tutoial on https://www.w3schools.com
+# report.txt (before changes)
+Project Status: Initial Draft
 
-This repository is built step by step in the tutorial.
-
-adding changes to test
-another change to test part 2
-
-another change to test push branch to github
-change 11/1/2025
-change again
-change again
-branch2
-
+The main feature is working correctly.
+We need to fix the typo in the title.
